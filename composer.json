@@ -1,0 +1,18 @@
+{
+    "name": "flutterfinn/royal-mail",
+    "description": "A wrapper on roya mail shipping api",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Flutterfinn\\RoyalMail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Finn Jesse Dan",
+            "email": "83787516+Jesse-Dan@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
